@@ -51,7 +51,7 @@ the input file. Corresponds to the C++ '-A' option.}
 Corresponds to the C++ '-v' option.}
 }
 \value{
-Logical \code{TRUE} if successful and output file is created, \code{FALSE} otherwise.
+Logical `TRUE` if successful and output file is created, `FALSE` otherwise.
 }
 \description{
 This function takes an input FASTA file and generates a new FASTA file

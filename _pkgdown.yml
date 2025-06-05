@@ -1,0 +1,15 @@
+url: https://your-github-username.github.io/mimicR/
+template:
+  bootstrap: 5
+
+navbar:
+  left:
+  - icon: fa-home fa-lg
+    href: index.html
+  - text: "Reference"
+    href: reference/index.html
+  - text: "Articles"
+    href: articles/index.html
+  right:
+  - icon: fa-github
+    href: https://github.com/your-github-username/mimicR
